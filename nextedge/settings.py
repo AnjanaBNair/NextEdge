@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'nextedge_plastictoo',
         'USER': 'nextedge_plastictoo',
         'PASSWORD': '181663394e4f9a44b174a026012d171c956cd62e',
-        'HOST': 'rm1ul.h.filess.io',
+        'HOST': 'zjsos.h.filess.io',
         'PORT': '61000',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
