@@ -85,11 +85,11 @@ WSGI_APPLICATION = 'nextedge.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'nextedge_somehowbad',
-        'USER': 'nextedge_somehowbad',
-        'PASSWORD': '900a6d992b8d44cbbccbb864404ddbe8b335857f',
+        'NAME': 'nextedge_plastictoo',
+        'USER': 'nextedge_plastictoo',
+        'PASSWORD': '181663394e4f9a44b174a026012d171c956cd62e',
         'HOST': 'rm1ul.h.filess.io',
-        'PORT': '3305',
+        'PORT': '61000',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
         }
